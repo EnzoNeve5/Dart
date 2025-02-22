@@ -1,7 +1,7 @@
 # Criando um aplicativo
 
-flutter create <nome>
+flutter create ***<nome>***
 
-cd <nome>
+cd ***<nome>***
 
 flutter run
